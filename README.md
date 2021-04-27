@@ -1,10 +1,10 @@
 # bitcoinAuto
 
 Ubuntu 서버 명령어
-(*추가)한국 기준으로 서버 시간 설정: sudo ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime
-현재 경로 상세 출력: ls -al
-경로 이동: cd 경로
-vim 에디터로 파일 열기: vim bitcoinAutoTrade.py
+(*추가)한국 기준으로 서버 시간 설정: sudo ln -sf /usr/share/zoneinfo/Asia/Seoul /etc/localtime<br>
+현재 경로 상세 출력: ls -al<br>
+경로 이동: cd 경로<br>
+vim 에디터로 파일 열기: vim bitcoinAutoTrade.py<br>
 vim 에디터 입력: i
 vim 에디터 저장: :wq!
 패키지 목록 업데이트: sudo apt update
