@@ -14,4 +14,4 @@ pip3로 pyupbit 설치: pip3 install pyupbit<br>
 백그라운드 실행: nohup python3 bitcoinAutoTradeWithSlack_XRP.py > output.log &<br>
 실행되고 있는지 확인: ps ax | grep .py<br>
 프로세스 종료(PID는 ps ax | grep .py를 했을때 확인 가능): kill -9 PID<br>
-PID설명
+디렉토리 강제 삭제 : rm -rf 디렉토리명
